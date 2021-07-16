@@ -5,8 +5,8 @@ https://www.youtube.com/watch?v=w7ejDZ8SWv8
 This is a  Simple Task Tracker App made using React
 
 
-# To Start The application in Development Mode in your WebBrowser you need to (on a new Terminal)
-## 1. Start the Development Server 
+# To Start The application in Development Mode in your WebBrowser you need to 
+## 1. Start the Development Server (on a new Terminal)
 ```
 npm Start
 ```
