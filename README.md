@@ -7,7 +7,7 @@ This is a  Simple Task Tracker App made using React
 To Start The application in Development Mode in your WebBrowser you need to 
 ## 1. Start the Development Server (on a new Terminal)
 ```
-npm Start
+npm start
 ```
 
 ## 2. Start the backend Server for the Database (JSON server) (on a new Terminal))
