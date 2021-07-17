@@ -6,13 +6,13 @@ Here is a List of All Features of the application.
 - The App is Made Using react Functional Components using hooks, and ES6 Functions
 
 - CRUD
-
     - Add Task
         - open/ Close the Form
         - If the Task field is empty a Pop-up alert is thrown to the user
         - Reminder and Day & Time field is optional to fill
 
-    - Delete Task 
+    - Delete Task
+        - Click the X icon to delete the Task 
 
     - Update Task
         - Only the Reminder can be toggled (true/ false) by double clicking a task
